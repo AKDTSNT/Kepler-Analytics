@@ -1,0 +1,1 @@
+This project deals with identifying an ideal investment portfolio by analysing the stocks of several companies. 
