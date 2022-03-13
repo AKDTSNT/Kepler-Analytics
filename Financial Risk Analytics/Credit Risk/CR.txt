@@ -1,0 +1,1 @@
+This project deals with building a model to predict whether a company is going to default upcoming loan payments. The data includes financial details of 15441 companies. The target variable ‘Default Status’ is created by using the ‘Net worth next Year’ column in the dataset. Logistic Regression is used to build the model.
